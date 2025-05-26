@@ -7,7 +7,8 @@ author_profile: true
 
 ---
 
-Contact Information:
+## Contact Information
 
-Email: xiaoxiao.ling@phc.ox.ac.uk
-Location: Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, United Kingdom.
+**Email:** xiaoxiao.ling@phc.ox.ac.uk
+
+**Location:** Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, United Kingdom.
