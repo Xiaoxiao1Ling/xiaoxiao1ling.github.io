@@ -1,9 +1,4 @@
----
-title: "Demonstration"
-collection: teaching
-venue: "University College London, Department of Statistical Science"
-location: "United Kingdom"
----
+## Demonstration
 
 Introduction to Practical Statistics (STAT0004)
 
