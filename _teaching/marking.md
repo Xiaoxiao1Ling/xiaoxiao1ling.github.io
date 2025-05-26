@@ -1,9 +1,5 @@
----
-title: "Marking"
-collection: teaching
-venue: "University College London, Department of Statistical Science"
-location: "United Kingdom"
----
+
+# Marking
 
 Introduction to Probability and Statistics (STAT0002)
 
