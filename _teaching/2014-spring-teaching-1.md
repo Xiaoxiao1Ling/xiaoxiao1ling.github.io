@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Demonstration"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University College London, Department of Statistical Science"
+location: "United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduction to Practical Statistics (STAT0004)
 
-Heading 1
-======
+Introductory Statistical Methods (STAT0022)
 
-Heading 2
-======
+Statistical Computing (STAT0030)
 
-Heading 3
-======
+Mathematics and Statistics (COMP0011)
