@@ -20,10 +20,10 @@ Ling, X., Gabrio, A., & Baio, G. (2025). Bayesian cost-effectiveness analysis us
 
 > We found that Bayesian cost-effectiveness analyses are sensitive to the choice of the Uniform prior distributions on log cost standard deviations when costs data are assumed to be log-normally distributed and contain zero values. 
 
-
+<br><br>
 
 Ling, X., Gabrio, A., Mason, A., & Baio, G. (2022). [A Scoping Review of Item-Level Missing Data in Within-Trial Cost-Effectiveness Analysis](https://www.sciencedirect.com/science/article/pii/S1098301522001115). *Value in Health*.
 
 > We identified 87 trial-based CEAs, and found that complete case analysis or available case analysis (CCA/ACA) and multiple imputation (MI) were the most popular methods to handle missing costs and QoL in base-case analysis. However, CCA/ACA dominated sensitivity analysis. Missing costs were widely imputed at item level via MI, while missing QoL was usually imputed at the more aggregated time point level during the follow-up via MI.
 
-
+<br><br>
