@@ -13,4 +13,3 @@ Selected Publications
 ------
 
 
-// template: https://github.com/academicpages/academicpages.github.io
