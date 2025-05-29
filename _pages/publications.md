@@ -9,13 +9,13 @@ redirect_from:
 
 **Ling, X.**, Gabrio, A., & Baio, G. (2025). Bayesian cost-effectiveness analysis using individual-level data is sensitive to the choice of Uniform priors on the standard deviations for costs in Log-Normal models. *PhamarcoEconomics*. (Accepted)
 
-Jin, H., Tappenden, P., **Ling, X**., Robinson, S. and Byford, S., (2023). [A systematic review of whole disease models for informing healthcare resource allocation decisions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291366). *Plos one*, 18(9).
+Jin, H., Tappenden, P., **Ling, X.**, Robinson, S. and Byford, S., (2023). [A systematic review of whole disease models for informing healthcare resource allocation decisions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291366). *Plos one*, 18(9).
 
-**Ling, X**., Gabrio, A., Mason, A., & Baio, G. (2022). [A Scoping Review of Item-Level Missing Data in Within-Trial Cost-Effectiveness Analysis](https://www.sciencedirect.com/science/article/pii/S1098301522001115). *Value in Health*.
+**Ling, X.**, Gabrio, A., Mason, A., & Baio, G. (2022). [A Scoping Review of Item-Level Missing Data in Within-Trial Cost-Effectiveness Analysis](https://www.sciencedirect.com/science/article/pii/S1098301522001115). *Value in Health*.
 
-Heslin, M., Jin, H., Trevillion, K., **Ling, X**., Nath, S., Barrett, B., ... & Byford, S. (2022). [Cost-effectiveness of screening tools for identifying depression in early pregnancy: a decision tree model](https://link.springer.com/article/10.1186/s12913-022-08115-x). *BMC health services research*, 22(1), 1-17.
+Heslin, M., Jin, H., Trevillion, K., **Ling, X.**, Nath, S., Barrett, B., ... & Byford, S. (2022). [Cost-effectiveness of screening tools for identifying depression in early pregnancy: a decision tree model](https://link.springer.com/article/10.1186/s12913-022-08115-x). *BMC health services research*, 22(1), 1-17.
 
-Zhu, W., **Ling, X**., Petersen, J. D., Liu, J., Xiao, A., & Huang, J. (2022). [Clipping versus coiling for aneurysmal subarachnoid hemorrhage: a systematic review and meta-analysis of prospective studies](https://link.springer.com/article/10.1007/s10143-021-01704-0). *Neurosurgical review*, 45(2), 1291-1302.
+Zhu, W., **Ling, X.**, Petersen, J. D., Liu, J., Xiao, A., & Huang, J. (2022). [Clipping versus coiling for aneurysmal subarachnoid hemorrhage: a systematic review and meta-analysis of prospective studies](https://link.springer.com/article/10.1007/s10143-021-01704-0). *Neurosurgical review*, 45(2), 1291-1302.
 
 Trevillion, K., Domoney, J., Ocloo, J., Heslin, M., **Ling, X. X.**, Stanley, N., ... & Howard, L. M. (2020). [For Baby's Sake: Final Evaluation Report](https://clok.uclan.ac.uk/33610/?template=default_internal).
 
