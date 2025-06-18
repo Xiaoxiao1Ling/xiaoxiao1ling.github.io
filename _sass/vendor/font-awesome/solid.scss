@@ -8,7 +8,7 @@
 
 :root, :host {
   --#{$fa-css-prefix}-style-family-classic: '#{ $fa-style-family }';
-  --#{$fa-css-prefix}-font-solid: normal 900 0.8em/1 '#{ $fa-style-family }';
+  --#{$fa-css-prefix}-font-solid: normal 900 1em/1 '#{ $fa-style-family }';
 }
 
 @font-face {
