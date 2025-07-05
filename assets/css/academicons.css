@@ -5,9 +5,9 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
-    font-family: 'Times New Roman';
+    font-family: 'Academicons';
     font-style: normal;
-    font-weight: 200;
+    font-weight: 400;
     font-display: block;
     src:url('../fonts/academicons.eot');
     src:url('../fonts/academicons.eot') format('embedded-opentype'),
