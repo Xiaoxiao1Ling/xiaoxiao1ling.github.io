@@ -8,13 +8,13 @@
 
 :root, :host {
   --#{$fa-css-prefix}-style-family-classic: '#{ $fa-style-family }';
-  --#{$fa-css-prefix}-font-regular: normal 400 1em/1 '#{ $fa-style-family }';
+  --#{$fa-css-prefix}-font-regular: normal 200 1em/1 '#{ $fa-style-family }';
 }
 
 @font-face {
-  font-family: 'Font Awesome 6 Free';
+  font-family: 'Times New Roman';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 200;
   font-display: $fa-font-display;
   src: url('#{$fa-font-path}/fa-regular-400.woff2') format('woff2'),
     url('#{$fa-font-path}/fa-regular-400.ttf') format('truetype');
