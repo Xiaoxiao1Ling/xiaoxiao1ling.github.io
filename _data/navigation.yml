@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #  url: /contact/
     
   - title: "CV"
     url: "https://xiaoxiao1ling.github.io/files/CV_Xiaoxiao LING_Simple.pdf"
