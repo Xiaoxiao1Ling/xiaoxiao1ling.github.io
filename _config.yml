@@ -4,8 +4,8 @@
 locale                   : "en-GB"
 site_theme               : "default"
 title                    : "Xiaoxiao Ling"
-title_separator          : "" // "-"
-name                     : "" // &name "Xiaoxiao Ling"
+# title_separator          : "" // "-"
+# name                     : "" // &name "Xiaoxiao Ling"
 description              : &description "personal description"
 url                      : https://xiaoxiao1ling.github.io 
 
