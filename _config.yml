@@ -5,7 +5,7 @@ locale                   : "en-GB"
 site_theme               : "default"
 title                    : "Xiaoxiao Ling"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://xiaoxiao1ling.github.io 
 
