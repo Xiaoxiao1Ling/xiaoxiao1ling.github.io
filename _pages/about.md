@@ -13,7 +13,7 @@ Broadly, my research interest lies in health economic evaluations and their stat
 
 Previously, I did my PhD at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/department-statistical-science), University College London, under the supervision of [Prof Gianluca Baio](https://gianluca.statistica.it) and [Dr Andrea Gabrio](https://sites.google.com/site/agabriostats/home). 
 
-I look forward to collaborating with researchers who share an interest in health economics and its statistical methodology.
+I look forward to collaborating with researchers who share an interest in health economics, econometrics and Bayesian methods.
 
 Selected Publications
 ------
