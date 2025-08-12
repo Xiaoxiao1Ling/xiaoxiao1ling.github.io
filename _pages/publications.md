@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**Ling, X.**, Gabrio, A., & Baio, G. (2025). Bayesian cost-effectiveness analysis using individual-level data is sensitive to the choice of Uniform priors on the standard deviations for costs in Log-Normal models. *PhamarcoEconomics*. (Accepted)
+**Ling, X.**, Gabrio, A., & Baio, G. (2025). [Bayesian cost-effectiveness analysis using individual-level data is sensitive to the choice of Uniform priors on the standard deviations for costs in Log-Normal models](https://link.springer.com/article/10.1007/s40273-025-01511-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250812&utm_content=10.1007%2Fs40273-025-01511-1). *PhamarcoEconomics*. 
 
 Jin, H., Tappenden, P., **Ling, X.**, Robinson, S. and Byford, S., (2023). [A systematic review of whole disease models for informing healthcare resource allocation decisions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291366). *Plos one*, 18(9).
 
