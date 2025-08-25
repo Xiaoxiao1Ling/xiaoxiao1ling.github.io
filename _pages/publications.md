@@ -11,7 +11,7 @@ redirect_from:
 
 Jin, H., Tappenden, P., **Ling, X.**, Robinson, S. and Byford, S., (2023). [A systematic review of whole disease models for informing healthcare resource allocation decisions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291366). *Plos one*, 18(9).
 
-**Ling, X.**, Gabrio, A., Mason, A., & Baio, G. (2022). [A scoping review of item-level missing data in within-trial cost-effectiveness analysis](https://www.sciencedirect.com/science/article/pii/S1098301522001115). *Value in Health*.
+**Ling, X.**, Gabrio, A., Mason, A., & Baio, G. (2022). [A scoping review of item-level missing data in within-trial cost-effectiveness analysis](https://www.sciencedirect.com/science/article/pii/S1098301522001115). *Value in Health*, 25(9), 1654-1662.
 
 Heslin, M., Jin, H., Trevillion, K., **Ling, X.**, Nath, S., Barrett, B., ... & Byford, S. (2022). [Cost-effectiveness of screening tools for identifying depression in early pregnancy: a decision tree model](https://link.springer.com/article/10.1186/s12913-022-08115-x). *BMC health services research*, 22(1), 1-17.
 
