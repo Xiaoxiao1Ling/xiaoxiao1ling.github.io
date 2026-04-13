@@ -17,6 +17,19 @@ Broadly, my research interest includes:
 + Bayesian methods in health economics
 + Causal inference
 
+Working with Me
+------
+**Paid health economics internships for undergrads at the University of Oxford**
+Three paid, eight-week research internships are available for UK undergraduate students at the Nuffield Department of Primary Care Health Sciences, funded by the NIHR.
+
+Interns will work on health economics projects related to dementia and Alzheimer’s disease, supported by a tailored training and seminar programme. The placements run from 3 August to 25 September 2026.
+
+The programme is open to students from any discipline who are not in their final year of study. No prior economics background is required, and we particularly encourage applications from underrepresented groups.
+
+Closing date: 31 May 2026 
+
+[Apply here] (www.phc.ox.ac.uk/HEinternship2026)
+
 
 Selected Publications
 ------
