@@ -20,6 +20,7 @@ Broadly, my research interest includes:
 Working with Me
 ------
 **Paid health economics internships for undergrads at the University of Oxford**
+
 Three paid, eight-week research internships are available for UK undergraduate students at the Nuffield Department of Primary Care Health Sciences, funded by the NIHR.
 
 Interns will work on health economics projects related to dementia and Alzheimer’s disease, supported by a tailored training and seminar programme. The placements run from 3 August to 25 September 2026.
