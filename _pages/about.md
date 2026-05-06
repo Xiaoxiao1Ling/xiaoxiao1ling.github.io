@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher in health economics based at [Nuffield Department of Primary Care Health Sciences](https://www.phc.ox.ac.uk/research/groups-and-centres/health-economics-research), University of Oxford. My current work focusses on trial-based economic evaluations and observational data analysis for orthopaedic interventions and sleep disorders. 
+I am a postdoc researcher in health economics based at [Nuffield Department of Primary Care Health Sciences](https://www.phc.ox.ac.uk/research/groups-and-centres/health-economics-research), University of Oxford. I develop and apply statistical methodology for complex economic and longitudinal outcomes in trials and cohort studies, with interests in Bayesian modelling, missing data, measurement error and study design.
 
 Previously, I did my PhD at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/department-statistical-science), University College London, under the supervision of [Prof Gianluca Baio](https://gianluca.statistica.it) and [Dr Andrea Gabrio](https://sites.google.com/site/agabriostats/home). 
 
@@ -29,7 +29,7 @@ The programme is open to students from any discipline who are not in their final
 
 Closing date: 31 May 2026 
 
-[Apply here] (www.phc.ox.ac.uk/HEinternship2026)
+[Apply here](www.phc.ox.ac.uk/HEinternship2026)
 
 
 Selected Publications
