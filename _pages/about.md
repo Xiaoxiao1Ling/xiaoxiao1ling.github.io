@@ -13,9 +13,11 @@ Previously, I did my PhD at the [Department of Statistical Science](https://www.
 
 Broadly, my research interest includes:
 + Health economic evaluations
-+ Missing data
-+ Bayesian methods in health economics
-+ Causal inference
++ Longitudinal data analysis
++ Missing Data
++ Measurement Error
++ Bayesian modelling
++ Health economics study design
 
 Working with Me
 ------
