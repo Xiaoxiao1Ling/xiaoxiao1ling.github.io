@@ -31,7 +31,7 @@ The programme is open to students from any discipline who are not in their final
 
 Closing date: 31 May 2026 
 
-[Apply here](www.phc.ox.ac.uk/HEinternship2026)
+[Apply here](https://www.phc.ox.ac.uk/HEinternship2026)
 
 
 Selected Publications
