@@ -37,7 +37,7 @@ Closing date: 31 May 2026
 Selected Publications
 ------
 
-**Ling, X., Gabrio, A., & Baio, G. (2025). [Bayesian Cost-Effectiveness Analysis Using Individual-Level Data is Sensitive to the Choice of Uniform Priors on the Standard Deviations for Costs in Log-Normal Models](https://link.springer.com/article/10.1007/s40273-025-01511-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250812&utm_content=10.1007%2Fs40273-025-01511-1).** ***PhamarcoEconomics***, 43, 1309–1321. 
+**Ling, X., Gabrio, A., & Baio, G. (2025). [Bayesian Cost-Effectiveness Analysis Using Individual-Level Data is Sensitive to the Choice of Uniform Priors on the Standard Deviations for Costs in Log-Normal Models](https://link.springer.com/article/10.1007/s40273-025-01511-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250812&utm_content=10.1007%2Fs40273-025-01511-1).** ***PharmacoEconomics***, 43, 1309–1321. 
 
 We found that Bayesian cost-effectiveness analyses are sensitive to the choice of the Uniform prior distributions on log cost standard deviations when costs data are assumed to be log-normally distributed and contain zero values. <br>
 
